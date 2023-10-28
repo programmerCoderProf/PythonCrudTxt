@@ -1,0 +1,6 @@
+90,Ahmed,1000
+91,Ali,2000
+92,Mohammed,3000
+93,Nora,4000
+94,Huda,5000
+95,Someone,6000
